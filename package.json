@@ -1,0 +1,33 @@
+{
+  "name": "jumbler",
+  "version": "0.1.0",
+  "description": "A word scrambler whose output is still easy to read.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "fight-club-quotes": "*",
+    "mocha": "~1.6.0",
+    "should": "~1.2.1"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Soarez/jumbler.git"
+  },
+  "keywords": [
+    "jumbler",
+    "scrambler",
+    "anagram",
+    "randomizer",
+    "text",
+    "string",
+    "word"
+  ],
+  "author": "Igor Soarez <igorsoarez@gmail.com>",
+  "license": "MIT"
+}
