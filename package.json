@@ -1,6 +1,6 @@
 {
   "name": "jumbler",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A word scrambler whose output is still easy to read.",
   "main": "index.js",
   "directories": {
