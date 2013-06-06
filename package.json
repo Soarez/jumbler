@@ -1,6 +1,6 @@
 {
   "name": "jumbler",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A word scrambler whose output is still easy to read.",
   "main": "index.js",
   "bin": "cli.js",
